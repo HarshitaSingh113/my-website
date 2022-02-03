@@ -1,2 +1,2 @@
 # my-website
-this is really awesome
+this is really nice
